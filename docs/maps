@@ -1,0 +1,19 @@
+MAP SPECIFICATION HERE
+
+(keep in mind that this a suggestion; feel free to change it as needed)
+(also, I'm sorry that I'm doing this without you guys there... I'll be more in tune when I'm back)
+-ZD
+
+to serialize a map:
+
+map width
+map height
+[h x w grid of ascii chars to define the map]
+
+
+
+CHARACTER DICTIONARY:
+
+E = empty (placeable)
+X = empty (and not placeable)
+T = track
